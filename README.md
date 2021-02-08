@@ -1,5 +1,5 @@
 # Project Proposal
-## Porject Title: Covid Travel Agent
+## Project Title: Covid Travel Agent
 ### What and why?
 I would like to build a Website Application that helps people feel more confident about travelling in the coming months. COVID has disrupted many industries, but one of the worst hit industries globally is undoubtebly the travel industry. After widespread lockdowns and restrictions, I feel people now more than ever are anxious to get back out in the world.
 

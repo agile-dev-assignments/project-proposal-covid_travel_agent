@@ -4,7 +4,7 @@
 I would like to build a Website Application that helps people feel more confident about travelling in the coming months. COVID has disrupted many industries, but one of the worst hit industries globally is undoubtebly the travel industry. After widespread lockdowns and restrictions, I feel people now more than ever are anxious to get back out in the world.
 
 ### For whom?
-This software is for intended for anybody and everybody who wishes to travel in the coming months. 
+This software is intended for anybody and everybody who wishes to travel in the coming months. 
 
 ### How?
 The goal of the software will be to streamline travel so it's as simple as picking a location and booking a flight again. With all the restrictions now in place, I believe travelling is now at a point where a great deal of research is required before hand. 

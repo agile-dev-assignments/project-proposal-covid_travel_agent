@@ -10,7 +10,7 @@ This software is intended for anybody and everybody who wishes to travel in the 
 The goal of the software will be to streamline travel so it's as simple as picking a location and booking a flight again. With all the restrictions now in place, I believe travelling is now at a point where a great deal of research is required beforehand. 
 
 This will be achieved by:
-1. Collecting User information: name (optional), email (optional), airport preference/city location (optional), current country of residence, country of citizenship, reason for travel.
+1. Collecting user information: name (optional), email (optional), airport preference/city location (optional), current country of residence, country of citizenship, reason for travel.
 2. Based on user information and real-time data compiled from the web, calculating the best travel destinations for each user based on: possibility, % of general population vaccinated, flight cost, quarantine periods & other COVID related data (whether you need to test in advance).
 
 ### Scope
